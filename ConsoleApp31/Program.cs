@@ -17,7 +17,6 @@ namespace ConsoleApp31
                 Console.Clear();
                 Console.SetCursorPosition(x, 5);
 
-
                 if(x % 3 == 0)
                 {
                     Console.WriteLine("__@");
